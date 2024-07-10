@@ -1,0 +1,27 @@
+#cont {
+    background-color: rgb(181, 9, 9);
+    padding-bottom: 25px;
+}
+
+#textoOriginal {
+    border: none;
+    background-color: rgb(209, 211, 231);
+    padding-bottom: 350px;
+}
+
+#textoResultado {
+    border: none;
+    box-sizing: border-box;
+    padding-bottom: 80px;
+}
+
+img {
+    margin-top: 45px;
+    padding-top: 10px;
+    width: 200px;
+    height: 300px;
+}
+
+#p1 {
+    margin-top: 20px;
+}
